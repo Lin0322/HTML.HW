@@ -1,0 +1,14 @@
+body{
+background-color: sandybrown;
+}
+h2{
+    border: 2px solid rgb(240, 135, 117);
+    color: aqua;
+    font-size: 80px;
+}
+h3{
+    color:cadetblue;
+    font-size: 60px;
+    border:10px solid rgb(205, 155, 175)
+}
+
